@@ -1,0 +1,50 @@
+class Program
+    {
+        static void Main(string[] args)
+        {
+            int n = 2;
+            int limit = 100;
+            List<int> myList;            
+            int max = 0;
+            int m = 0;
+
+            try
+            {
+                while (n <= limit)
+                {                    
+                    myList = new List<int>();
+                    myList.Add(1);
+                    for (int i = 1; i < n; i++)
+                    {
+                        if ((n % i != 0) && (GCD(n, i) == 1))
+                        {
+                            myList.Add(i);                            
+                        }
+                    }
+                    
+                    int phi = n / myList.Count;
+                    if (phi > max)
+                    {
+                        max = phi;
+                        m = n;
+                    }
+                    n++;                                                            
+                }
+                Console.WriteLine("Max = {0} for n = {1}", max, m);                
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+            Console.ReadLine();
+        }
+
+        private static int GCD(int a, int b)
+        {
+            if (b != 0)
+                return GCD(b, a % b);
+            else
+                return a;           
+        }
+
+    }
