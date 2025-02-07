@@ -1,0 +1,10 @@
+F:\Проекти\Project Euler\Problem 45\Problem 45\bin\Debug\Problem 45.exe
+F:\Проекти\Project Euler\Problem 45\Problem 45\bin\Debug\Problem 45.pdb
+F:\Проекти\Project Euler\Problem 45\Problem 45\obj\Debug\Problem 45.csprojResolveAssemblyReference.cache
+F:\Проекти\Project Euler\Problem 45\Problem 45\obj\Debug\Problem 45.exe
+F:\Проекти\Project Euler\Problem 45\Problem 45\obj\Debug\Problem 45.pdb
+E:\Проекти\Project Euler\Problem 45\Problem 45\bin\Debug\Problem 45.exe
+E:\Проекти\Project Euler\Problem 45\Problem 45\bin\Debug\Problem 45.pdb
+E:\Проекти\Project Euler\Problem 45\Problem 45\obj\Debug\Problem 45.csprojResolveAssemblyReference.cache
+E:\Проекти\Project Euler\Problem 45\Problem 45\obj\Debug\Problem 45.exe
+E:\Проекти\Project Euler\Problem 45\Problem 45\obj\Debug\Problem 45.pdb
