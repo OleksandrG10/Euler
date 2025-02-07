@@ -1,0 +1,10 @@
+D:\My Code\Problem11\Problem11\bin\Debug\Problem11.exe
+D:\My Code\Problem11\Problem11\bin\Debug\Problem11.pdb
+D:\My Code\Problem11\Problem11\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My Code\Problem11\Problem11\obj\x86\Debug\Problem11.exe
+D:\My Code\Problem11\Problem11\obj\x86\Debug\Problem11.pdb
+f:\Проекти\Project Euler\Problem11\Problem11\obj\x86\Debug\Problem11.exe
+f:\Проекти\Project Euler\Problem11\Problem11\obj\x86\Debug\Problem11.pdb
+f:\Проекти\Project Euler\Problem11\Problem11\bin\Debug\Problem11.exe
+f:\Проекти\Project Euler\Problem11\Problem11\bin\Debug\Problem11.pdb
+f:\Проекти\Project Euler\Problem11\Problem11\obj\x86\Debug\Problem11.csprojResolveAssemblyReference.cache
