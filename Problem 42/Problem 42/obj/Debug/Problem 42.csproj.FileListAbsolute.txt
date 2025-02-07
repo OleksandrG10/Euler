@@ -1,0 +1,6 @@
+F:\Проекти\Project Euler\Problem 42\Problem 42\bin\Debug\Problem 42.exe.config
+F:\Проекти\Project Euler\Problem 42\Problem 42\bin\Debug\Problem 42.exe
+F:\Проекти\Project Euler\Problem 42\Problem 42\bin\Debug\Problem 42.pdb
+F:\Проекти\Project Euler\Problem 42\Problem 42\obj\Debug\Problem 42.csprojResolveAssemblyReference.cache
+F:\Проекти\Project Euler\Problem 42\Problem 42\obj\Debug\Problem 42.exe
+F:\Проекти\Project Euler\Problem 42\Problem 42\obj\Debug\Problem 42.pdb
