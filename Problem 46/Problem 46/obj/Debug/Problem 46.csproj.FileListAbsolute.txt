@@ -1,0 +1,6 @@
+E:\Проекти\Project Euler\Problem 46\Problem 46\bin\Debug\Problem 46.exe.config
+E:\Проекти\Project Euler\Problem 46\Problem 46\bin\Debug\Problem 46.exe
+E:\Проекти\Project Euler\Problem 46\Problem 46\bin\Debug\Problem 46.pdb
+E:\Проекти\Project Euler\Problem 46\Problem 46\obj\Debug\Problem 46.csprojResolveAssemblyReference.cache
+E:\Проекти\Project Euler\Problem 46\Problem 46\obj\Debug\Problem 46.exe
+E:\Проекти\Project Euler\Problem 46\Problem 46\obj\Debug\Problem 46.pdb
