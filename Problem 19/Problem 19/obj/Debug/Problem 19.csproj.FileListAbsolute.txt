@@ -1,0 +1,5 @@
+F:\Проекти\Project Euler\Problem 19\Problem 19\bin\Debug\Problem 19.exe
+F:\Проекти\Project Euler\Problem 19\Problem 19\bin\Debug\Problem 19.pdb
+F:\Проекти\Project Euler\Problem 19\Problem 19\obj\Debug\Problem 19.csprojResolveAssemblyReference.cache
+F:\Проекти\Project Euler\Problem 19\Problem 19\obj\Debug\Problem 19.exe
+F:\Проекти\Project Euler\Problem 19\Problem 19\obj\Debug\Problem 19.pdb

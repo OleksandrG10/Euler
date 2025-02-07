@@ -1,0 +1,4 @@
+F:\Проекти\Project Euler\Problem 18\Problem 18\bin\Debug\Problem 18.exe
+F:\Проекти\Project Euler\Problem 18\Problem 18\bin\Debug\Problem 18.pdb
+F:\Проекти\Project Euler\Problem 18\Problem 18\obj\Debug\Problem 18.exe
+F:\Проекти\Project Euler\Problem 18\Problem 18\obj\Debug\Problem 18.pdb
