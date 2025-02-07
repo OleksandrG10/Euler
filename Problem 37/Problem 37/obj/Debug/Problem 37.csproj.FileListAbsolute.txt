@@ -1,0 +1,12 @@
+F:\Проекти\Project Euler\Problem 37\Problem 37\bin\Debug\Problem 37.exe.config
+F:\Проекти\Project Euler\Problem 37\Problem 37\bin\Debug\Problem 37.exe
+F:\Проекти\Project Euler\Problem 37\Problem 37\bin\Debug\Problem 37.pdb
+F:\Проекти\Project Euler\Problem 37\Problem 37\obj\Debug\Problem 37.csprojResolveAssemblyReference.cache
+F:\Проекти\Project Euler\Problem 37\Problem 37\obj\Debug\Problem 37.exe
+F:\Проекти\Project Euler\Problem 37\Problem 37\obj\Debug\Problem 37.pdb
+E:\Проекти\Project Euler\Problem 37\Problem 37\bin\Debug\Problem 37.exe.config
+E:\Проекти\Project Euler\Problem 37\Problem 37\bin\Debug\Problem 37.exe
+E:\Проекти\Project Euler\Problem 37\Problem 37\bin\Debug\Problem 37.pdb
+E:\Проекти\Project Euler\Problem 37\Problem 37\obj\Debug\Problem 37.csprojResolveAssemblyReference.cache
+E:\Проекти\Project Euler\Problem 37\Problem 37\obj\Debug\Problem 37.exe
+E:\Проекти\Project Euler\Problem 37\Problem 37\obj\Debug\Problem 37.pdb

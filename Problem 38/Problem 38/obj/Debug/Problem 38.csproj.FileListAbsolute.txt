@@ -1,0 +1,6 @@
+F:\Проекти\Project Euler\Problem 38\Problem 38\bin\Debug\Problem 38.exe.config
+F:\Проекти\Project Euler\Problem 38\Problem 38\bin\Debug\Problem 38.exe
+F:\Проекти\Project Euler\Problem 38\Problem 38\bin\Debug\Problem 38.pdb
+F:\Проекти\Project Euler\Problem 38\Problem 38\obj\Debug\Problem 38.csprojResolveAssemblyReference.cache
+F:\Проекти\Project Euler\Problem 38\Problem 38\obj\Debug\Problem 38.exe
+F:\Проекти\Project Euler\Problem 38\Problem 38\obj\Debug\Problem 38.pdb
