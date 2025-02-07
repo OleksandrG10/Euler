@@ -1,0 +1,9 @@
+D:\My Code\Polindrom\Polindrom\bin\Debug\Polindrom.exe
+D:\My Code\Polindrom\Polindrom\bin\Debug\Polindrom.pdb
+D:\My Code\Polindrom\Polindrom\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My Code\Polindrom\Polindrom\obj\x86\Debug\Polindrom.exe
+D:\My Code\Polindrom\Polindrom\obj\x86\Debug\Polindrom.pdb
+F:\Проекти\Project Euler\Problem 4\Polindrom\obj\x86\Debug\Polindrom.exe
+F:\Проекти\Project Euler\Problem 4\Polindrom\obj\x86\Debug\Polindrom.pdb
+F:\Проекти\Project Euler\Problem 4\Polindrom\bin\Debug\Polindrom.exe
+F:\Проекти\Project Euler\Problem 4\Polindrom\bin\Debug\Polindrom.pdb
