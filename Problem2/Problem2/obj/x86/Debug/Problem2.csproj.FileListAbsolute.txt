@@ -1,0 +1,9 @@
+D:\My Code\Problem2\Problem2\bin\Debug\Problem2.exe
+D:\My Code\Problem2\Problem2\bin\Debug\Problem2.pdb
+D:\My Code\Problem2\Problem2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My Code\Problem2\Problem2\obj\x86\Debug\Problem2.exe
+D:\My Code\Problem2\Problem2\obj\x86\Debug\Problem2.pdb
+F:\Проекти\Project Euler\Problem2\Problem2\obj\x86\Debug\Problem2.exe
+F:\Проекти\Project Euler\Problem2\Problem2\obj\x86\Debug\Problem2.pdb
+F:\Проекти\Project Euler\Problem2\Problem2\bin\Debug\Problem2.exe
+F:\Проекти\Project Euler\Problem2\Problem2\bin\Debug\Problem2.pdb
