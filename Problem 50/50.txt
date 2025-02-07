@@ -1,0 +1,57 @@
+
+///
+///  first method
+///
+
+for (int i = 2; i <= n; i++)
+                {
+if(isPrime(i))
+                    listPrime.Add(i);
+                    if (listPrime.Count != 1)
+                    {
+                        for (int j = 0; j < listPrime.Count; j++)
+                        {
+                            sumPrime += listPrime[j];
+                        }
+                        if (isPrime(sumPrime) && sumPrime < n)
+                        {
+                            if (!consecutivePrimeSum.Contains(sumPrime))
+                            {
+                                consecutivePrimeSum.Add(sumPrime);
+                                Console.WriteLine("Sum = {0}", sumPrime);
+                                sumPrime = 0;
+                                listPrime = new List<int>();
+                                i = 1;
+                            }
+                        }
+                        sumPrime = 0;
+                    }
+                }
+                        
+            }
+            
+
+///
+///  second method
+///
+
+for (int i = 2; i <= n; i++)
+                {
+                    if (isPrime(i))
+                    {
+                        k = i;
+                        for (int j = 2; j < i; j++)
+                        {
+                            if (isPrime(j) && i != 0)
+                            {
+                                k -= j;
+                                if (k == 0)
+                                    listPrime.Add(i);
+                            }
+                        }
+                    }
+                }
+                for (int p = 0; p < listPrime.Count; p++)
+                {
+                    Console.Write(listPrime[p] + " ");
+                }
